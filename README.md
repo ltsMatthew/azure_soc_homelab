@@ -22,9 +22,12 @@ In this guide, I will walk through setting up a SOC (Security Operations Center)
 
 1. Log in to the Azure Portal.
 
-2. Go to and Select **Virtual Machines** > **Create** > **Azure Virtual Machine with preset configuration**
-3. On the **Choose recommended defaults that match your workload** page just select **Continue to create VM** at the bottom.
-5. 
+2. Go to and Select **Virtual Machines** > **Create** > **Azure virtual machine with preset configuration**
+
+
+
+4. On the **Choose recommended defaults that match your workload** page just select **Continue to create VM** at the bottom.
+
 
 6. Configure the following:
 
