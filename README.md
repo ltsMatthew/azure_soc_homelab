@@ -52,4 +52,10 @@ Just below that make sure inbound port rules are configured as in the screenshot
 
 **Everything else on the Basics tab you can leave as default.**
 
+After you followed all the above steps go ahead and click on:
+
+`Next : Disks >` then `Next : Networking >` ... (just click Next until you get to the `Review + Create` tab)
+
+_The reason why we dont just go to the_ `Review + Create` _tab right away is because the settings won't autofill unless you go onto the tab_
+
 
