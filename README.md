@@ -30,27 +30,27 @@ In this guide, I will walk through setting up a SOC (Security Operations Center)
 
 ![AzureVM_contunue_to_create_VM](screenshots/AzureVM_contunue_to_create_VM.jpg)
 
-1.1.4. Configure the following on the Basics Tab:
+---------------------------------------------------------------------
 
-![AzureVM_basictab1](screenshots/AzureVM_basictab1.png)
+1.1.4. Configure the following on the Basics Tab:
 
 1.1.5. Resoure Group - this is a container that will hold all the things we'll be creating (you can name it anything).
 
 1.1.6. VM Name - give your VM a name.
 
-![AzureVM_basictab1_5](screenshots/AzureVM_basictab1_5.png)
+![AzureVM_basictab1](screenshots/AzureVM_basictab1.png)
 
 1.1.7. Region - this is where your VM will be created.
 
 1.1.8. Image - Select `Windows 10 Pro, version 22H2 - x64 Gen2(free services eligible)`
 
-![AzureVM_basictab2](screenshots/AzureVM_basictab2.png)
+![AzureVM_basictab1_5](screenshots/AzureVM_basictab1_5.png)
 
 1.1.9. For the Administrator Account section fill in a Username and Password.
 
 1.1.10. Just below that make sure inbound port rules are configured as in the screenshot.
 
-![AzureVM_basictab2_5](screenshots/AzureVM_basictab2_5.png)
+![AzureVM_basictab2](screenshots/AzureVM_basictab2.png)
 
 1.1.11. Next make sure to tick the box in the Licensing part.
 
@@ -59,6 +59,8 @@ In this guide, I will walk through setting up a SOC (Security Operations Center)
 1.1.12. After you followed all the above steps go ahead and click on `Next : Disks >` then `Next : Networking >` ...... (just keep clicking next until you get to the `Review + Create` tab)
 
 _The reason why we dont just go to the_ `Review + Create` _tab right away is because the settings won't autofill unless you go onto each tab_.
+
+![AzureVM_basictab2_5](screenshots/AzureVM_basictab2_5.png)
 
 On the `Review + Create` tab here you can view the pricing of the VM.
 
