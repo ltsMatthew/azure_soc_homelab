@@ -80,3 +80,17 @@ On the `Review + Create` tab here you can view the pricing of the VM.
 
 ---------------------------------------------------------------------
 
+## Step 2: Setting Up Microsoft Sentinel
+
+2.1. In the Azure Portal navigate to Microsoft Sentinel and click on Create
+pic here
+
+2.2. create new workspace
+pic here
+
+2.3. same res group and region
+
+2.4. can skip tags tag
+
+2.5 review and create sentinel
+
