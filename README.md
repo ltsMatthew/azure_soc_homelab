@@ -56,7 +56,7 @@ After you followed all the above steps go ahead and click on:
 
 `Next : Disks >` then `Next : Networking >` ... (just keep clicking next until you get to the `Review + Create` tab)
 
-_The reason why we dont just go to the_ `Review + Create` _tab right away is because the settings won't autofill unless you go onto the tab_.
+_The reason why we dont just go to the_ `Review + Create` _tab right away is because the settings won't autofill unless you go onto each tab_.
 
 We dont need anymore configurations for this VM so now we can go ahead and create it!
 
