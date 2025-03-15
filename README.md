@@ -38,9 +38,9 @@ Resoure Group - this is a container that will hold all the things we'll be creat
 
 VM Name - give your VM a name.
 
-Region - this is where your VM will be created.
-
 ![AzureVM_basictab1_5](screenshots/AzureVM_basictab1_5.png)
+
+Region - this is where your VM will be created.
 
 Image - Select `Windows 10 Pro, version 22H2 - x64 Gen2(free services eligible)`
 
