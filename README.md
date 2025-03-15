@@ -32,7 +32,11 @@ In this guide, I will walk through setting up a SOC (Security Operations Center)
 
 4.1. Configure the following on the Basics Tab:
 
+![AzureVM_basictab1](screenshots/AzureVM_basictab1.jpg)
+![AzureVM_basictab1_5](screenshots/AzureVM_basictab1_5.jpg)
+![AzureVM_basictab2](screenshots/AzureVM_basictab2.jpg)
 
+Every else in this 
 
 *  Image: Windows 10 or Windows Server
 
