@@ -26,11 +26,13 @@ In this guide, I will walk through setting up a SOC (Security Operations Center)
 
 ![AzureVM_preset_config](screenshots/AzureVM_preset_config.jpg)
 
-4. On the `Choose recommended defaults that match your workload` page just select `Continue to create VM` at the bottom.
+3. On the `Choose recommended defaults that match your workload` page just select `Continue to create VM` at the bottom.
 
 ![AzureVM_contunue_to_create_VM](screenshots/AzureVM_contunue_to_create_VM.jpg)
 
-6. Configure the following:
+4.1. Configure the following on the Basics Tab:
+
+
 
 *  Image: Windows 10 or Windows Server
 
