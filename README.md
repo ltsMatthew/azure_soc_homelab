@@ -20,46 +20,46 @@ In this guide, I will walk through setting up a SOC (Security Operations Center)
 
 ### 1.1 Create an Azure VM
 
-1. Log in to the Azure Portal.
+1.1.1 Log in to the Azure Portal.
 
-2. Go to and Select `Virtual Machines` > `Create` > `Azure virtual machine with preset configuration`
+1.1.2. Go to and Select `Virtual Machines` > `Create` > `Azure virtual machine with preset configuration`
 
 ![AzureVM_preset_config](screenshots/AzureVM_preset_config.jpg)
 
-3. On the `Choose recommended defaults that match your workload` page just select `Continue to create VM` at the bottom.
+1.1.3. On the `Choose recommended defaults that match your workload` page just select `Continue to create VM` at the bottom.
 
 ![AzureVM_contunue_to_create_VM](screenshots/AzureVM_contunue_to_create_VM.jpg)
 
-4.1. Configure the following on the Basics Tab:
+1.1.4. Configure the following on the Basics Tab:
 
 ![AzureVM_basictab1](screenshots/AzureVM_basictab1.png)
 
-Resoure Group - this is a container that will hold all the things we'll be creating (you can name it anything).
+1.1.5. Resoure Group - this is a container that will hold all the things we'll be creating (you can name it anything).
 
-VM Name - give your VM a name.
+1.1.6. VM Name - give your VM a name.
 
 ![AzureVM_basictab1_5](screenshots/AzureVM_basictab1_5.png)
 
-Region - this is where your VM will be created.
+1.1.7. Region - this is where your VM will be created.
 
-Image - Select `Windows 10 Pro, version 22H2 - x64 Gen2(free services eligible)`
+1.1.8. Image - Select `Windows 10 Pro, version 22H2 - x64 Gen2(free services eligible)`
 
 ![AzureVM_basictab2](screenshots/AzureVM_basictab2.png)
 
-For the Administrator Account section fill in a Username and Password.
+1.1.9. For the Administrator Account section fill in a Username and Password.
 
-Just below that make sure inbound port rules are configured as in the screenshot.
+1.1.10. Just below that make sure inbound port rules are configured as in the screenshot.
 
 ![AzureVM_basictab2_5](screenshots/AzureVM_basictab2_5.png)
 
-Tick the box in the Licensing part
+1.1.11. Next make sure to tick the box in the Licensing part.
 
 **Everything else on the Basics tab you can leave as default.**
 
-After you followed all the above steps go ahead and click on `Next : Disks >` then `Next : Networking >` ...... (just keep clicking next until you get to the `Review + Create` tab)
+1.1.12. After you followed all the above steps go ahead and click on `Next : Disks >` then `Next : Networking >` ...... (just keep clicking next until you get to the `Review + Create` tab)
 
 _The reason why we dont just go to the_ `Review + Create` _tab right away is because the settings won't autofill unless you go onto each tab_.
 
-We dont need anymore configurations for this VM so now we can go ahead and create it!
+4.1.9. We dont need anymore configurations for this VM so now we can go ahead and create it!
 
 
