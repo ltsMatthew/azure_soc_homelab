@@ -32,7 +32,7 @@ In this guide, I will walk through setting up a SOC (Security Operations Center)
 
 4.1. Configure the following on the Basics Tab:
 
-![AzureVM_basictab1](screenshots/AzureVM_basictab1.jpg)
+![AzureVM_basictab1](screenshots/AzureVM_basictab1.png)
 
 Resoure Group - this is a container that will hold all the things we'll be creating (you can name it anything).
 
@@ -40,7 +40,7 @@ VM Name - give your VM a name.
 
 Region - this is where your VM will be created.
 
-![AzureVM_basictab1_5](screenshots/AzureVM_basictab1_5.jpg)
+![AzureVM_basictab1_5](screenshots/AzureVM_basictab1_5.png)
 
 Image - Select `Windows 10 Pro, version 22H2 - x64 Gen2(free services eligible)`
 
