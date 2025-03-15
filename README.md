@@ -46,8 +46,10 @@ Image - Select `Windows 11 Pro, version 24H2 - x64 Gen2`
 
 ![AzureVM_basictab2](screenshots/AzureVM_basictab2.jpg)
 
-For the Administrator Account Section fill in a Username and password.
+For the Administrator Account section fill in a Username and Password.
 
 Just below that make sure inbound port rules are configured as in the screenshot.
 
-Everything else on the Basics tab you can leave as default.
+**Everything else on the Basics tab you can leave as default.**
+
+
