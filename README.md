@@ -44,17 +44,19 @@ Region - this is where your VM will be created.
 
 Image - Select `Windows 10 Pro, version 22H2 - x64 Gen2(free services eligible)`
 
-![AzureVM_basictab2](screenshots/AzureVM_basictab2.jpg)
+![AzureVM_basictab2](screenshots/AzureVM_basictab2.png)
 
 For the Administrator Account section fill in a Username and Password.
 
 Just below that make sure inbound port rules are configured as in the screenshot.
 
+![AzureVM_basictab2_5](screenshots/AzureVM_basictab2_5.png)
+
+Tick the box in the Licensing part
+
 **Everything else on the Basics tab you can leave as default.**
 
-After you followed all the above steps go ahead and click on:
-
-`Next : Disks >` then `Next : Networking >` ... (just keep clicking next until you get to the `Review + Create` tab)
+After you followed all the above steps go ahead and click on `Next : Disks >` then `Next : Networking >` ...... (just keep clicking next until you get to the `Review + Create` tab)
 
 _The reason why we dont just go to the_ `Review + Create` _tab right away is because the settings won't autofill unless you go onto each tab_.
 
