@@ -60,6 +60,8 @@ In this guide, I will walk through setting up a SOC (Security Operations Center)
 
 _The reason why we dont just go to the_ `Review + Create` _tab right away is because the settings won't autofill unless you go onto each tab_.
 
-4.1.9. We dont need anymore configurations for this VM so now we can go ahead and create it!
+On the `Review + Create` tab here you can view the pricing of the VM.
 
+1.1.13. Go ahead and click on `Create` at the bottom to create your VM (_Note that this process can take a couple of minutes to complete_)
 
+![AzureVM_Create](screenshots/AzureVM_Create.png)
