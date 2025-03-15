@@ -34,21 +34,20 @@ In this guide, I will walk through setting up a SOC (Security Operations Center)
 
 ![AzureVM_basictab1](screenshots/AzureVM_basictab1.jpg)
 
+Resoure Group - this is a container that will hold all the things we'll be creating (you can name it anything).
 
+VM Name - give your VM a name.
+
+Region - this is where your VM will be created.
 
 ![AzureVM_basictab1_5](screenshots/AzureVM_basictab1_5.jpg)
 
+Image - Select `Windows 11 Pro, version 24H2 - x64 Gen2`
 
 ![AzureVM_basictab2](screenshots/AzureVM_basictab2.jpg)
 
-Every else in this 
+For the Administrator Account Section fill in a Username and password.
 
-*  Image: Windows 10 or Windows Server
+Just below that make sure inbound port rules are configured as in the screenshot.
 
-*  Size: At least 2 vCPUs and 4GB RAM
-
-*  Public IP: Enabled
-
-4. Set up RDP access to connect to the machine.
-
-5. Click Create and wait for deployment.
+Everything else on the Basics tab you can leave as default.
